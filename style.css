@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(252, 240, 176);
+}
+
+button{
+    height: 40px;
+    width: 60px;
+    background-color: black;
+}
+
+button:hover{
+    background-color: rgb(212, 212, 212);
+    color: rgb(255, 248, 248);
+}
